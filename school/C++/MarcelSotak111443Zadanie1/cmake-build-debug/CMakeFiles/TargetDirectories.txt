@@ -1,3 +1,0 @@
-C:/Users/marma/CLionProjects/prog2/ZADANIE2prog/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/marma/CLionProjects/prog2/ZADANIE2prog/cmake-build-debug/CMakeFiles/ZADANIE2prog.dir
-C:/Users/marma/CLionProjects/prog2/ZADANIE2prog/cmake-build-debug/CMakeFiles/edit_cache.dir

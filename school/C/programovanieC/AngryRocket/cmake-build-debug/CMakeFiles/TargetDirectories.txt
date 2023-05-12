@@ -1,3 +1,0 @@
-C:/Users/marma/CLionProjects/prog2/AngryRocket/cmake-build-debug/CMakeFiles/AngryRocket.dir
-C:/Users/marma/CLionProjects/prog2/AngryRocket/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/marma/CLionProjects/prog2/AngryRocket/cmake-build-debug/CMakeFiles/rebuild_cache.dir

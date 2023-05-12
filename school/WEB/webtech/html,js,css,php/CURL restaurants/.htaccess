@@ -1,4 +1,0 @@
-RewriteEngine On
-
-
-RewriteRule ^phpZadanie2/api.php$ api.php [L,QSA]

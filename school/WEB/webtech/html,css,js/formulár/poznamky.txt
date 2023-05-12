@@ -1,9 +1,0 @@
-fieldtext
-
-zarovannei foat left
-
-tel cislo
-pattern\
-
-
-vyznac prve veci 

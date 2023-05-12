@@ -1,1 +1,0 @@
-databaza , login , register, google autheticator, goole login, edit
